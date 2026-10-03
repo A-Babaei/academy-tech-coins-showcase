@@ -1,0 +1,12 @@
+# Exclude implementation and release artifacts from this showcase.
+*.php
+*.zip
+*.phar
+/vendor/
+/node_modules/
+.env
+.env.*
+*.sql
+*.log
+.DS_Store
+Thumbs.db
